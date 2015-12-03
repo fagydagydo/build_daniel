@@ -3,6 +3,7 @@
 //doesn't include new case/storage (ssd/hdd)
 
 
+
 Other: 				budget 200 000 
 
 CPU:				Intel Pentium G3258 Anniversary Edition Boxed (19558 Ft)
